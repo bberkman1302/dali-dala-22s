@@ -5,7 +5,7 @@
 
 Created using Tableu and React.js
 
-All visualizations are hosted at:
+All visualizations are hosted [here](https://6282040a21663a6257adb5f9--famous-faloodeh-881eb5.netlify.app/)
 
 I completed analysis on the data prior to creating the visualization, found in the [PreViz-Analysis.ipynb](./PreViz-Analysis.ipynb) file.
 
