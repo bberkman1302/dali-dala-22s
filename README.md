@@ -4,6 +4,7 @@
 # Data Visualizations
 
 Created using Tableu and React.js
+
 All visualizations are hosted at:
 
 ## Visualization 1
