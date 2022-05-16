@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font: helvetica;
+}
+
+h1, h2{
+  margin-left: 10px;
+}
+
+.Contain{
+  display: flex;
+  width: 650px;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.map_chart{
+  margin-top: 10px;
+}
+
+.segment_chart{
+  margin-top: 30px;
+}
+
+.line_chart{
+  margin-top: 30px;
+}
+
+.Container{
+
+  height: 600px;
+  width: 700px;
+}
